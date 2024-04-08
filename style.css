@@ -17,9 +17,10 @@
     display: inline-block;
     margin: 0 32px;
     font-size: 30px;
-    
+
     }
     
     * {
     margin: 0 16px;
-    padding: 24px 
+    padding: 24px
+    }
