@@ -1,6 +1,6 @@
 .cabeçalho_lista {
     background-color:rgba(252, 248, 49, 0.616);
-    color: silver;
+    color: rgba(17, 0, 0, 0.726);
     display: flex;
     justify-content: space-around;
     align-items: center;
