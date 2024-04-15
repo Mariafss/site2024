@@ -11,6 +11,7 @@
     .cabeçalho_imagem {
     width: 20%;
     height: 20%;
+    border-radius: 4%;
     }
     
     .itens{
