@@ -4,8 +4,8 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 30px;
-    font-size: 20px;
+    padding: 5px;
+    font-size: 5px;
     }
     
     .cabeçalho_imagem {
@@ -14,7 +14,7 @@
     border-radius: 10%;
     }
     
-    .itens{
+    .itens{30px
     display: inline-block;
     margin: 32px;
     font-size: 25px;
