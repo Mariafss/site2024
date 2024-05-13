@@ -29,13 +29,11 @@
     
     h1 {
         color:blueviolet;
+        text-align: center;
+        }
     }
 
     a {
         text-decoration: none;
         color:plum;
-    }
-
-    .center {
-        text-align: center;
     }
