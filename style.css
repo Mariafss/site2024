@@ -5,6 +5,7 @@
     justify-content: space-around; 
     padding: 4px;
     font-size: 6px;
+    text-decoration: none;
     }
     
     .cabeçalho_imagem {
@@ -18,7 +19,6 @@
     display: inline-block;
     margin: 20px;
     font-size: 20px;
-    text-decoration: none;
 
     }
     
