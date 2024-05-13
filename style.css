@@ -16,14 +16,14 @@
     
     .itens{
     display: inline-block;
-    margin: 60px;
+    margin: 20px;
     font-size: 20px;
 
     }
     
     * {
-    margin: 16px;
-    padding: 24px
+    margin: 6px;
+    padding: 4px
     }
     
     h1 {
