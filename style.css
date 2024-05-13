@@ -30,3 +30,7 @@
     h1 {
         color:blueviolet;
     }
+
+    li{
+        text-decoration: none;
+    }
